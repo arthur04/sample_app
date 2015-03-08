@@ -57,5 +57,8 @@ group :test do
   gem 'webrat', '0.7.3'
 end
 
+# Pour tester have_selector()
+gem 'capybara'
+
 end
 
